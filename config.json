@@ -2,14 +2,14 @@
     "PORT": 8000,
 
     "USE_WEBHOOKS": true,
-    "WEBHOOK_URL": "DISCORD_WEBHOOK_URL_HERE",
-    "DISCORD_TOKEN": "TOKEN_HERE",
-    "DISCORD_CHANNEL_ID": "1234",
+    "WEBHOOK_URL": "https://discordapp.com/api/webhooks/581658796028330003/8QCi0N2nuhU8qhDiTzVE0PBAnSCME5UXp8beJma0tyeKNu18RzIuGh01Dm9NmqYOo_Su",
+    "DISCORD_TOKEN": "NTgxNjUzODI3MTkxNTcwNDUy.XOibKA.jhL3rBytHWnwXKm_CfzW5Xlt2Rc",
+    "DISCORD_CHANNEL_ID": "581658720124010527",
     "DISCORD_MESSAGE_TEMPLATE": "`%username%`: %message%",
 
-    "MINECRAFT_SERVER_RCON_IP": "127.0.0.1",
+    "MINECRAFT_SERVER_RCON_IP": "107.3.98.16",
     "MINECRAFT_SERVER_RCON_PORT": 25575,
-    "MINECRAFT_SERVER_RCON_PASSWORD": "password",
+    "MINECRAFT_SERVER_RCON_PASSWORD": "a01245369",
     "MINECRAFT_TELLRAW_TEMPLATE": "[{\"color\": \"white\", \"text\": \"<%username%> %message%\"}]",
 
     "IS_LOCAL_FILE": false,
